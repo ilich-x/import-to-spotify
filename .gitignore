@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+
+config.py
+vk_config.v2.json
