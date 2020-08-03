@@ -1,9 +1,6 @@
-import collections
-
 import vk_api
 
 from vk_api.audio import VkAudio
-from datetime import date
 from config import vk_login, vk_password
 
 
